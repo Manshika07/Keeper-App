@@ -1,4 +1,4 @@
-# Keeper App 2
+# Keeper App 
 
 A simple note-taking web application built with React and Vite. Keeper App 2 allows users to create, view, and delete notes in a clean and intuitive interface, inspired by Google Keep.
 
